@@ -51,7 +51,7 @@ The primary objective of this project is to build an android application that ca
 
 1. Clone this repository and import into **Android Studio**
 ```bash
-git clone https://github.com/MrRobo24/TheSamaritanProject
+git clone https://github.com/sauravjaiswa/TheSamaritanProject
 ```
 2. Link it with Google Firebase Project
  **Read:** https://firebase.google.com/docs/android/setup
